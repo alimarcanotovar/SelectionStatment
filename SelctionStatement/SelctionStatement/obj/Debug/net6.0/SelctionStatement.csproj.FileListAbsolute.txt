@@ -1,0 +1,15 @@
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\bin\Debug\net6.0\SelctionStatement.exe
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\bin\Debug\net6.0\SelctionStatement.deps.json
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\bin\Debug\net6.0\SelctionStatement.runtimeconfig.json
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\bin\Debug\net6.0\SelctionStatement.dll
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\bin\Debug\net6.0\SelctionStatement.pdb
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\obj\Debug\net6.0\SelctionStatement.csproj.AssemblyReference.cache
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\obj\Debug\net6.0\SelctionStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\obj\Debug\net6.0\SelctionStatement.AssemblyInfoInputs.cache
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\obj\Debug\net6.0\SelctionStatement.AssemblyInfo.cs
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\obj\Debug\net6.0\SelctionStatement.csproj.CoreCompileInputs.cache
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\obj\Debug\net6.0\SelctionStatement.dll
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\obj\Debug\net6.0\refint\SelctionStatement.dll
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\obj\Debug\net6.0\SelctionStatement.pdb
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\obj\Debug\net6.0\SelctionStatement.genruntimeconfig.cache
+C:\Users\Weeb\Desktop\Repos\SelectionStatements\SelctionStatement\SelctionStatement\obj\Debug\net6.0\ref\SelctionStatement.dll
